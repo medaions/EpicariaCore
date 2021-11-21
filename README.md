@@ -26,4 +26,5 @@ Informations complémentaires
 |-------------------|:-----------------------------------------------------------|
 | Discord :          | https://discord.me/gameshubs |
 | Site Web :          | http://epicaria.gameshubs.fr |
+| BugTracker:         | https://github.com/medaions/EpicariaCore/issues
 |-------------------|:-----------------------------------------------------------|       
